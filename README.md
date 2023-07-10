@@ -15,6 +15,7 @@
 
 ![](https://stats.justsong.cn/api/csdn?id=Nick5412&theme=dark)
 ![](https://stats.justsong.cn/api/bilibili/?id=1933878876&theme=dark)
+![](https://stats.justsong.cn/api/juejin/?id=3839915728315741&theme=dark)
 
 
 
